@@ -1,0 +1,4 @@
+english	1001	1
+nepali	1003	0
+social	1006	1
+grammar	1007	1
